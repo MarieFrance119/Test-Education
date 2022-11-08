@@ -7,4 +7,4 @@ Le dossier notebook contient le notebook réalisé pour effectuer les études.
 
 Une API affichant un dashboard a été déployée sur le wed à cette adresse https://mariefrance119-test-education-dashboard-app-rpczjs.streamlit.app/.
 
-Le code est disponible dans ce [repository](https://github.com/MarieFrance119/Test-Education-Dashboard).
+Le code pour l'API est disponible dans ce [repository](https://github.com/MarieFrance119/Test-Education-Dashboard).
